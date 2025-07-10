@@ -155,4 +155,3 @@ This README demonstrates:
 - Technical writing skills
 - Project organization
 
-Would you like me to modify any section or add more details about specific features?
